@@ -1,2 +1,4 @@
 information about git
 version control system
+collabration
+backup files
